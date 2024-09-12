@@ -1,5 +1,29 @@
 .cabecalho{
-    background-color: #000000;
-    color: blue;
+    background-color: black;
+    color: azure;
     display: flex;
-    padding: ;
+    padding: 24px 0;
+}
+
+.section1{
+    background-color: brown;
+    padding: 100px;
+}
+
+.section2{
+   background-color: blue;
+   padding: 100px;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.moto300{
+    width: 5%;
+}
+
+.rodape{
+    background-color: black;
+    color: aliceblue;
+}
